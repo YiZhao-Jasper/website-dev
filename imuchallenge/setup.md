@@ -239,6 +239,7 @@ Competition dates, team and submission limits, and any external-data policy can 
 
 ### Technical report
 
+- **Template.** [Download the report template](https://drive.google.com/drive/folders/1EEnFNbogpRSbqGglppdNh0EQp0zxHzjZ){:target="_blank" rel="noopener"} &mdash; a zip containing `main.tex` and `ieeeconf.cls`, plus a PDF preview. On Overleaf: *New Project &rarr; Upload Project &rarr; select the zip*, then recompile. The folder always holds the current version.
 - **Format.** Maximum **6 pages excluding references**, and 7 pages in total including references, using the official template. **The appendix does not count** towards either limit.
 - **How to submit.** The report is *not* uploaded on this website. Fill in the challenge Form as usual and **attach your report at the end of the Form** &mdash; that single submission is what we collect.
 - **Selection.** The Kaggle leaderboard is **not** the only criterion for the Top 10: the quality of the report is also taken into account, and the Top 10 teams will be invited to contribute to the forthcoming *IMU Foundation Model* white paper.
@@ -255,6 +256,7 @@ The [per-sequence scoring tool](https://huggingface.co/spaces/Tartan-IMU/imu_odo
   <li><a href="https://www.kaggle.com/competitions/tartan-imu-challenge-iros2026/overview" target="_blank" rel="noopener">Competition overview and schedule</a></li>
   <li><a href="https://www.kaggle.com/competitions/tartan-imu-challenge-iros2026/rules" target="_blank" rel="noopener">Official competition rules</a></li>
   <li><a href="https://www.kaggle.com/competitions/tartan-imu-challenge-iros2026/leaderboard" target="_blank" rel="noopener">Public leaderboard</a></li>
+  <li><a href="https://drive.google.com/drive/folders/1EEnFNbogpRSbqGglppdNh0EQp0zxHzjZ" target="_blank" rel="noopener">Technical report template (LaTeX + PDF)</a></li>
 </ul>
 
 <div class="imu-note" markdown="1">
