@@ -141,6 +141,9 @@ permalink: /imuchallenge/
       <a class="imu-workshop-action is-secondary" href="/imuchallenge/setup/">
         <i class="fas fa-rocket" aria-hidden="true"></i><span>Setup Guide</span>
       </a>
+      <a class="imu-workshop-action is-secondary" href="https://drive.google.com/drive/folders/1EEnFNbogpRSbqGglppdNh0EQp0zxHzjZ" target="_blank" rel="noopener">
+        <i class="fas fa-file-alt" aria-hidden="true"></i><span>Report Template</span>
+      </a>
     </div>
   </div>
 </header>
@@ -360,7 +363,7 @@ permalink: /imuchallenge/
       </article>
       <article class="imu-workshop-update">
         <time datetime="2026-09-04">Sep 04, 2026</time>
-        <div><p><strong>Technical report: deadline, format and how to submit.</strong> The report is due <strong>23:59 US Eastern Time on 23 September 2026</strong> &mdash; three days after the leaderboard closes, which remains September 20, 2026, 23:55 UTC. Maximum <strong>6 pages excluding references</strong> and 7 pages in total; the appendix does not count towards either limit. The report is <em>not</em> uploaded on this website: fill in the challenge Form as usual and <strong>attach the report at the end of the Form</strong>. Every report must answer the five compliance questions listed in the <a href="/imuchallenge/setup/#schedule-rules-and-leaderboard">setup guide</a>.</p></div>
+        <div><p><strong>Technical report: deadline, format and how to submit.</strong> The report is due <strong>23:59 US Eastern Time on 23 September 2026</strong> &mdash; three days after the leaderboard closes, which remains September 20, 2026, 23:55 UTC. Maximum <strong>6 pages excluding references</strong> and 7 pages in total; the appendix does not count towards either limit. <a href="https://drive.google.com/drive/folders/1EEnFNbogpRSbqGglppdNh0EQp0zxHzjZ" target="_blank" rel="noopener">Download the report template</a> (LaTeX source plus a PDF preview; on Overleaf use <em>New Project &rarr; Upload Project</em> and select the zip). The report is <em>not</em> uploaded on this website: fill in the challenge Form as usual and <strong>attach the report at the end of the Form</strong>. Every report must answer the five compliance questions listed in the <a href="/imuchallenge/setup/#schedule-rules-and-leaderboard">setup guide</a>.</p></div>
       </article>
       <article class="imu-workshop-update">
         <time datetime="2026-08-01">Aug 01, 2026</time>
